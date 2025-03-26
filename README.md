@@ -19,4 +19,4 @@ Import the Excel data into SQL to extract, create, and calculate new information
 Use the newly created information tables in Tableau to build a dashboard
 
 ## Dashboard
-- <a herf="https://public.tableau.com/app/profile/marilyn.saeteros/viz/AnxietyAnalysis/Dashboard1" > Anxiety Analysis Dashboard </a>
+- <a href="https://public.tableau.com/app/profile/marilyn.saeteros/viz/AnxietyAnalysis/Dashboard1" > Anxiety Analysis Dashboard </a>
