@@ -4,7 +4,7 @@
 I used a consumer behavior dataset in SQL to extract and organize data into Excel, which was then used to create a dashboard in Tableau. The process, including data cleaning and visualization, took approximately 5 hours.
 
 ## Dataset Used 
-- <a href"https://github.com/SaeterosM/Data-Analysis-Project2/blob/main/anxiety_dataset.xlsx" > Anxiety Dataset </a>
+- <a href="https://github.com/SaeterosM/Data-Analysis-Project2/blob/main/anxiety_dataset.xlsx" > Anxiety Dataset </a>
 
 ## Questions
 I analyzed an anxiety dataset to explore the various causes of anxiety and how they correlate with different factors, based on the following questions
